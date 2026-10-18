@@ -1,0 +1,98 @@
+$date
+	Sat Oct 17 23:11:44 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module tb_alu4 $end
+$var wire 4 ! y [3:0] $end
+$var reg 4 " a [3:0] $end
+$var reg 4 # b [3:0] $end
+$var reg 2 $ op [1:0] $end
+$var integer 32 % errores [31:0] $end
+$var integer 32 & prueba [31:0] $end
+$scope module dut $end
+$var wire 4 ' a [3:0] $end
+$var wire 4 ( b [3:0] $end
+$var wire 2 ) op [1:0] $end
+$var reg 4 * y [3:0] $end
+$upscope $end
+$scope task ejecutar_prueba $end
+$var reg 4 + esperado [3:0] $end
+$var reg 2 , operacion [1:0] $end
+$var reg 4 - valor_a [3:0] $end
+$var reg 4 . valor_b [3:0] $end
+$var integer 32 / numero [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b1 /
+b11 .
+b101 -
+b0 ,
+b1000 +
+b1000 *
+b0 )
+b11 (
+b101 '
+b1 &
+b0 %
+b0 $
+b11 #
+b101 "
+b1000 !
+$end
+#10000
+b10 !
+b10 *
+b1 $
+b1 )
+b101 #
+b101 (
+b111 "
+b111 '
+b10 &
+b10 +
+b1 ,
+b101 .
+b111 -
+b10 /
+#20000
+b1 !
+b1 *
+b10 $
+b10 )
+b1001 #
+b1001 (
+b11 "
+b11 '
+b11 &
+b1 +
+b10 ,
+b1001 .
+b11 -
+b11 /
+#30000
+b1111 !
+b1111 *
+b11 $
+b11 )
+b1010 #
+b1010 (
+b101 "
+b101 '
+b100 &
+b1111 +
+b11 ,
+b1010 .
+b101 -
+b100 /
+#40000
