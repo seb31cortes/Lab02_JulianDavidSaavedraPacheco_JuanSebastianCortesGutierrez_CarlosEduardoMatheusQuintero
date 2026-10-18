@@ -22,6 +22,6 @@ Después `SW` cambia a `0011` y se pulsa el botón de carga de B. El pulso `puls
 
 ## Evidencia física en video
 
-[Ver o descargar el video de la prueba de suma](prueba_suma.mp4) — duración aproximada: 1 minuto y 10 segundos.
+[Ver o descargar el video de la prueba de suma](prueba_suma.mp4)
 
 El video corresponde a la prueba 1 y permite contrastar la carga de los operandos con el resultado `1000` en los LEDs y el indicador verde asociado a `op=00`.

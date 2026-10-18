@@ -22,6 +22,6 @@ Al seleccionar `op=10`, el indicador cambia a `rgb=001` y la ALU calcula `0011 &
 
 ## Evidencia física en video
 
-[Ver o descargar el video de la prueba AND](prueba_and.mp4) — duración aproximada: 42 segundos.
+[Ver o descargar el video de la prueba AND](prueba_and.mp4) 
 
 El video corresponde a la prueba 3 y documenta la carga de 3 y 9, el resultado `0001` en los LEDs y el indicador azul asociado a `op=10`.

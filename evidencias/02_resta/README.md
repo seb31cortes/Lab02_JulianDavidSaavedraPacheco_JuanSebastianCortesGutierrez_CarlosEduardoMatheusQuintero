@@ -22,6 +22,6 @@ Luego se carga `B=0101`. Mientras la operación sigue siendo suma, el resultado 
 
 ## Evidencia física en video
 
-[Ver o descargar el video de la prueba de resta](prueba_resta.mp4) — duración aproximada: 47 segundos.
+[Ver o descargar el video de la prueba de resta](prueba_resta.mp4) 
 
 El video corresponde a la prueba 2 y documenta la carga de 7 y 5, el resultado `0010` en los LEDs y el indicador rojo asociado a `op=01`.

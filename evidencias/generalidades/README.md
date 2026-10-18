@@ -12,6 +12,6 @@ Los resultados intermedios son una consecuencia normal de la ALU combinacional: 
 
 ## Video de retención ante cambios en los switches
 
-[Ver o descargar el video de generalidades](retencion_operandos.mp4) — duración aproximada: 25 segundos.
+[Ver o descargar el video de generalidades](retencion_operandos.mp4) .
 
 El video verifica que mover repetidamente los switches no cambia por sí solo los operandos almacenados ni la operación observada. El nuevo valor solo entra al datapath cuando se pulsa el botón de carga de `A` o de `B`. Este comportamiento demuestra la separación entre el bus físico de entrada y los registros que alimentan la ALU.

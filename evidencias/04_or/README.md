@@ -22,6 +22,6 @@ Finalmente `op` cambia de `10` a `11`. El bus RGB pasa de `001` a `110`, que cor
 
 ## Evidencia física en video
 
-[Ver o descargar el video de la prueba OR](prueba_or.mp4) — duración aproximada: 38 segundos.
+[Ver o descargar el video de la prueba OR](prueba_or.mp4)
 
 El video corresponde a la prueba 4 y documenta la carga de 5 y 10, el resultado `1111` en los LEDs y el indicador amarillo asociado a `op=11`.
