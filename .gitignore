@@ -1,0 +1,27 @@
+# Resultados regenerables de Vivado
+build/
+bitstreams/
+.Xil/
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+
+# Archivos temporales de Vivado
+*.jou
+*.log
+*.str
+*.wdb
+*.wcfg
+*.pb
+
+# Ejecutables y archivos comprimidos
+*.vvp
+*.zip
+
+# Archivos temporales de Python
+__pycache__/
+
+# Otros archivos generados
+dfx_runtime.txt

@@ -1,0 +1,24 @@
+[*] GTKWave: registros, controles y salidas del sistema
+[size] 1400 780
+[pos] -1 -1
+*-17.000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[timestart] 0
+[treeopen] tb_lab02_top.
+[treeopen] tb_lab02_top.dut.
+@28
+tb_lab02_top.clk
+tb_lab02_top.dut.rst
+@22
+tb_lab02_top.SW[3:0]
+@28
+tb_lab02_top.BTN[3:0]
+tb_lab02_top.dut.press[3:0]
+@22
+tb_lab02_top.dut.a[3:0]
+tb_lab02_top.dut.b[3:0]
+@28
+tb_lab02_top.dut.op[1:0]
+@22
+tb_lab02_top.LED[3:0]
+@28
+tb_lab02_top.rgb[2:0]

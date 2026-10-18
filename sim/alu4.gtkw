@@ -1,0 +1,13 @@
+[*] GTKWave: ALU, las primeras ocho pruebas dirigidas
+[size] 1280 650
+[pos] -1 -1
+*-10.000000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[timestart] 0
+[treeopen] tb_alu4.
+@22
+tb_alu4.a[3:0]
+tb_alu4.b[3:0]
+@28
+tb_alu4.op[1:0]
+@22
+tb_alu4.y[3:0]
